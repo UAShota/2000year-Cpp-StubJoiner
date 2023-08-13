@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RentgenStub", "rentgenStub.vcproj", "{89626AD7-3D31-4551-A092-ACCC61978A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89626AD7-3D31-4551-A092-ACCC61978A72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89626AD7-3D31-4551-A092-ACCC61978A72}.Debug|Win32.Build.0 = Debug|Win32
+		{89626AD7-3D31-4551-A092-ACCC61978A72}.Release|Win32.ActiveCfg = Release|Win32
+		{89626AD7-3D31-4551-A092-ACCC61978A72}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
